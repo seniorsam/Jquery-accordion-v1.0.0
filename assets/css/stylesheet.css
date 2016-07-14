@@ -1,0 +1,22 @@
+/*first comment ever*/
+
+.acc-item {display: block}
+a.list-group-item {
+	margin-bottom: 0px;
+	background-color: #f5f5f5;
+}
+a.list-group-item:before {
+	content: "";
+	display: inline-block;
+	background-color: #337ab7;
+	margin-right: 8px;
+	width:10px;
+	height: 10px;
+/* 	-ms-transform: rotate(15deg); IE 9
+    -webkit-transform: rotate(15deg); Chrome, Safari, Opera
+    transform: rotate(15deg); */
+}
+div.list-group-item {border: 0px; display: none;}
+#acc-panels-wrapper div:first-child .acc-inner-content {display: block;}
+#acc-panels-wrapper div:last-child a {margin-bottom: 1px;}
+.margin-bottom-z {margin-bottom: 0px;}
