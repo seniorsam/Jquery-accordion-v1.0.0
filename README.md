@@ -3,10 +3,12 @@ simple jquery accordion using html,bootstrap,jquery
 
 How to install in your website:
 
-prerequisite:
+First you have to include those files in page:
 
-- Boostrap library
-- Jquery library
+- Boostrap library.
+- Jquery library.
+- acc_app.js file.
+- stylesheet.css
  
 Html markup to include one panel:
 
