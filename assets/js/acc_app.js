@@ -15,7 +15,5 @@ $(document).ready(function(){
 			restOfContents.slideUp('medium');
 			next.slideUp("medium");			
 		}
-		// close the rest of contents #337ab7 #ddd #f51414
-		console.log(restOfContents);
 	});
 });
